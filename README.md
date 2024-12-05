@@ -15,7 +15,7 @@ This tutorial is for people new to programming, with no prior experience needed.
 2. [Setting Up Python](#setting-up-python)
 3. [Hello, World!](#hello-world)
 4. [Variables and Data Types](#variables-and-data-types)
-5. [If Statements](#control-flow-if-statements)
+5. [If Statements](#if-statements)
 6. [Loops](#loops)
 7. [Functions](#functions)
 8. [Conclusion](#conclusion)
