@@ -23,13 +23,13 @@ This tutorial is for people new to programming, with no prior experience needed.
 
 ---
 
-### 1. Introduction
+### 1 Introduction
 
 Python is known for being one of the most simple programming languages,  making it the perfect option for beginner programmers! Following this tutorial will guide you through the basics of the language, and help you write your first lines of code.
 
 ---
 
-### 2. Setting Up Python
+### 2 Setting Up Python
 
 To start programming in Python, you can either install Python directly on your computer or use Thonny, a beginner-friendly Python IDE (Integrated Development Environment). Thonny comes with Python pre-installed, so you only have to complete one download, and it's great for beginners!
 
@@ -46,7 +46,7 @@ To check if Thonny is installed correctly, open the Thonny application. You shou
 
 ---
 
-### 3. Hello, World!
+### 3 Hello, World!
 
 It is tradition that the first program  every beginner writes is the "Hello, World!" program. This simple program prints the text “Hello, World!” to the screen. It’s a great way to get started with understanding how Python works.
 
@@ -59,7 +59,7 @@ In the Thonny editor, type the following code:
 Once you hit run (the green play button) the results should be visible in the shell.
 ---
 
-### 4. Variables and Data Types
+### 4 Variables and Data Types
 
 In Python, variables are used to store information, and data types tell us what kind of information that variable holds. A variable in python is basically just a label for something. Python makes it easy to use variables, and it even automatically decides the type of data based on what you put inside. These are the most common data types in Python:
   String: A sequence of characters, used to represent text. You create a string by surrounding text with quotes (" " or ' ').
@@ -76,7 +76,7 @@ To create a variable in Python, you simply assign a value to a name using an =
 you can also print them together with the line "print(name,age)"
 
 ---
-### 5. If Statements
+### 5 If Statements
 
 An if statement allows you to execute certain code under specific conditions. If the condition isn’t true, the code inside the if statement is skipped. This is how you can make decisions inside the program.
 
@@ -97,7 +97,7 @@ For example:
 Now you can have a different display message for each outcome!
 
 ---
-### 6. Loops
+### 6 Loops
 
 Loops allow you to execute the same block of code multiple times. This can save a lot of time and effort, especially when dealing with repetitive tasks.
 There are multiple different types of loops to work with in python, but **for loops** and **while loops** are best for beginners.
@@ -131,7 +131,7 @@ In this example, the loop will keep running as long as count is less than 5. Eac
 
 ---
 
-### 7. Functions
+### 7 Functions
 
 Functions are reusable blocks of code that you can call multiple times in your program. They allow you to organize your code into much smaller, manageable pieces.
 
@@ -148,7 +148,7 @@ output:
   
 ---
 
-### 8. Conclusion
+### 8 Conclusion
 
 Congratulations on completing my Python for Beginners tutorial! 
 
