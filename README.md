@@ -42,7 +42,7 @@ To start programming in Python, you can either install Python directly on your c
 - Follow the prompts to install Thonny. Since Thonny comes with Python included, you won’t need to install anything else.
 
 #### Step 3: Verify Installation
-To check if Thonny is installed correctly, open the Thonny application. You should see a window with a Python shell where you can start writing your code.
+To check if Thonny is installed correctly, open the Thonny application. You should see a window with a Python shell where you can start writing your code!
 
 ---
 
