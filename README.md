@@ -23,7 +23,7 @@ This tutorial is for people new to programming, with no prior experience needed.
 
 ---
 
-### 1 Introduction
+### 1: Introduction
 
 Python is known for being one of the most simple programming languages,  making it the perfect option for beginner programmers! Following this tutorial will guide you through the basics of the language, and help you write your first lines of code.
 
